@@ -1,4 +1,4 @@
-Comp 124: Headline Generator Lab
+Comp 127: Headline Generator Lab
 ====
 
 Your tabloid newspaper is near bankruptcy, and you had to fire all your reporters.
