@@ -1,0 +1,11 @@
+[person] TO WED [person]
+[person] ANNOUNCES [issue] PLAN
+[person] ESCAPES FROM [place]
+[person] SPOTTED NEAR [place]
+[person] DECRIES [issue]
+[person] ATTACKS [place]
+[person]: [headline]
+[person] SUES [person] OVER [issue]
+[headline] DESPITE [issue]
+[place] SUCCUMBS TO [issue]
+[headline] WHILE [headline]
