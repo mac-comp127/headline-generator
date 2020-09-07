@@ -14,11 +14,13 @@ The headline generator takes rules that look like this:
 
 The items in square brackets — `[person]` and `[place]` — are called _symbols_. Each symbol has a list of replacement choices. For example, three choices for `[place]` are:
 
-    KAGIN
+    CAMPUS CENTER
     SPAM MUSEUM
     [person]’S BASEMENT
 
-Your code randomly selects a substitution for each symbol to generate a headline.
+Your code randomly selects a substitution for each symbol to generate a headline, such as:
+
+    BIGFOOT ESCAPES FROM CAMPUS CENTER!
 
 Setup
 ---
@@ -38,9 +40,13 @@ Tasks
     - Make `applySubstitutions()` detect symbols in square braces (`"[…]"`), but instead of trying to process them, just replace them with the string `"symbol found"`.
     - These are just a few ideas. Think of other ways you can make **testable incremental progress** toward your goal.
 
-When the tests pass, try changing the `HeadlineGenerator.main()` method to print 100 headlines instead of 10.
+When the tests pass, run `HeadlineGenerator.main()` and enjoy your inevitable publication success!
 
-Try adding more rules in the `res` directory. Have fun!
+For more fun per run, try changing the `HeadlineGenerator.main()` method to print 100 headlines instead of 10.
+
+Try adding more rules in the `res` directory.
+
+Have fun!
 
 
 Optional Challenge Task
