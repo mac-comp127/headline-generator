@@ -1,11 +1,29 @@
+[issue-adjective] [noun]
+[issue-adjective] [noun]
+[issue-adjective] [noun]
+[issue-adjective] [noun]
 GOLD TOOTH
 UFO
-ROAD
+FREEWAY
 FLYING CAR
+HOVERCRAFT
+YACHT
+PRIVATE JET
 HUMAN
 PUN
 SHOELACE
 DEFICIT
 FASHION
 VOTER
-[issue-adjective] [noun]
+GIANT WOMBAT
+BABY
+POLICE CAR
+CYBORG
+KITTEN
+DOLPHIN
+SNAKE
+DINOSAUR
+SHARK
+PIRANHA
+LEOPARD
+[person]’S [noun]

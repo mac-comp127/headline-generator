@@ -1,13 +1,13 @@
 [noun] SHORTAGE
 [noun] INVASION
-[noun] IMPROVEMENTS
 [noun] CLONING
-[noun] PANDEMIC
+[noun] INFESTATION
 [noun] COMBUSTION
 [noun] REDUCTION
 [noun] AWARENESS
-[noun] TURNOUT
+[noun] BATTLE
 [noun] EXPERIMENT
 [noun] COVERUP
 [person]’S PLASTIC SURGERY
 [person]’S PREGNANCY
+[person]’S FEUD WITH [person]

@@ -1,11 +1,25 @@
 [person] TO WED [person]
 [person] ANNOUNCES [issue] PLAN
+[person] ESCAPES TO [place]
 [person] ESCAPES FROM [place]
 [person] SPOTTED NEAR [place]
 [person] DECRIES [issue]
 [person] ATTACKS [place]
-[person]: [headline]
 [person] SUES [person] OVER [issue]
 [headline] DESPITE [issue]
 [place] SUCCUMBS TO [issue]
+[place] DEVASTATED BY [issue]
+[place] DESTROYED BY [issue]
 [headline] WHILE [headline]
+[person] SUES [person]
+[person] DESTROYS [place]
+[person] IS A ROBOT
+[person] IS AN ALIEN
+[person] IS [person]’S SECRET LOVER
+[person] GROWS THIRD ARM
+[person] OPENS HELLMOUTH
+[person]’S HEAD PUT ON [person]’S BODY
+[person] FINDS [noun] WITH FACE OF [person]
+HALF-[person] HALF-[noun] BAFFLES DOCTORS
+WORLD’S SMARTEST [noun] GOES TO [place]
+[person] GIVES BIRTH TO [noun]
