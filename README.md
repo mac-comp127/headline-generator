@@ -46,4 +46,4 @@ Try adding more rules in the `res` directory. Have fun!
 Optional Challenge Task
 ---
 
-Make it so that the headline generator keeps a running list of every substitution it has applied with a headline, and never applies the same one twice in the same headline (so that you don’t get e.g. “OBAMA TO WEB OBAMA”). This is quite tricky!
+Make it so that the headline generator keeps a running list of every substitution it has applied with a headline, and never applies the same one twice in the same headline (so that you don’t get e.g. “OBAMA TO WED OBAMA”). This is quite tricky!
