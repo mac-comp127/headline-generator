@@ -61,10 +61,11 @@ public class HeadlineGenerator {
     }
 
     /**
-     * Randomly chooses one of the given substitution choices.
+     * Randomly chooses one of the substitution choices for the given symbol.
      */
-    private static List<String> chooseRandomSubstitution(List<List<String>> substitutions) {
+    private static List<String> chooseRandomSubstitution(String symbolName) {
         // Your job:
+        //   Get the choices from symbolName using Substitutions.getSubstitutionChoices()
         //   Use rand.nextInt(…) to pick a random index from the substitutions list
         //   Return the element at that index
         return List.of("not implemented yet");
