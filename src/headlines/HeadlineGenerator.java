@@ -26,8 +26,7 @@ public class HeadlineGenerator {
      */
     private static List<String> generateText(String symbolName) {
         // Your job:
-        //   Get the choices from symbolName using Substitutions.getSubstitutionChoices()
-        //   Use the chooseRandomSubstitution() method below to pick one at random
+        //   Use the chooseRandomSubstitution() method to pick a random substitution for symbolName
         //   Call applySubstitutions() to find symbols in the resulting list and substitute them
         //   Return the result
         return List.of("not implemented yet");
