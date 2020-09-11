@@ -20,7 +20,6 @@ public class Substitutions {
      * symbol, this method will look for a file called "noun.txt" in res. Each line of the text file
      * represents one possible substitution choice.
      *
-     * @param symbolName The
      * @return A list of possible choices, where each choice is a list of string fragments.
      *  Fragments enclosed in square braces "[…]" indicate references to other symbols. All other
      *  fragments are literal text.
@@ -36,9 +35,7 @@ public class Substitutions {
     }
 
     /**
-     * Internal method to override substitution choices for a given symbol for unit testing purposes.
-     * @param symbolName
-     * @param choices
+     * Internal method to override the substitution choices for a given symbol, for unit testing purposes.
      */
     static void mockSubstitution(String symbolName, List<List<String>> choices) {
         substitutionCache.put(symbolName, choices);
