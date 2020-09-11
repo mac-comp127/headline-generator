@@ -11,12 +11,6 @@ public class HeadlineGenerator {
     // A single long-term source of randomness for choosing substitutions
     private static Random rand = new Random();
 
-    public static void main(String[] args) {
-        for (int n = 0; n < 10; n++) {
-            System.out.println(generateHeadline());
-        }
-    }
-
     /**
      * Generates a new headline at random by starting with the "[headline]" symbol and applying
      * random substitutions.
